@@ -1,3 +1,3 @@
-# Docker Image for cassandra 3
+# Docker Image for php with cassandra 3 extension
 
-### dockerfile file for cassandra 3
+### dockerfile file for php with cassandra 3 driver
